@@ -5,6 +5,13 @@
 	"Description": "",
 	"Plugins": [
 		{
+<<<<<<< Updated upstream
+=======
+			"Name": "HoudiniEngine",
+			"Enabled": true
+		},
+		{
+>>>>>>> Stashed changes
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		}
