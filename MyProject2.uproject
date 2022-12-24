@@ -6,17 +6,11 @@
 	"Plugins": [
 		{
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 =======
-=======
->>>>>>> Stashed changes
 			"Name": "HoudiniEngine",
 			"Enabled": true
 		},
 		{
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
