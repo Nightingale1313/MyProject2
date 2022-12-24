@@ -5,10 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		},
-		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		}
